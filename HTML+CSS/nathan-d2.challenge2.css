@@ -1,0 +1,102 @@
+
+Body {
+    font-family: 'Open Sans', sans-serif;
+    padding:0;
+    margin:0;
+}
+
+Header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    height :10vh;
+    box-sizing:border-box;
+    position:sticky;    
+}
+
+
+Section{
+    display:flex;
+    width:100vw;
+    height:80vh;
+    box-sizing:border-box;
+}
+
+#one{
+    width:50vw;
+    height:80vh;
+    box-sizing:border-box;
+    width: 300px;
+    margin: auto;
+}
+
+h1{
+    font-size:40px;
+    font-weight:bold;
+}
+
+#signup{
+    color:grey;
+}
+
+#place{
+    border:0;
+    width:15vw;
+}
+
+form{
+
+    border:0;
+    border-bottom:1px solid black;
+    width:14vw;
+    padding: 2px 5px;
+}
+
+button {
+    background-color:darkslategrey;   
+    width:15vw;
+    height:6vh; 
+    padding: 15 32;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    color:white;
+}
+
+#logo{
+    font-size:24px;
+    display:flex;
+    justify-content: space-between;
+    
+
+    
+}
+
+
+#two{
+    width:50vw;
+    height:80vh;
+    box-sizing:border-box;
+    text-align:left;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    
+}
+
+img {
+    display:flex ;
+    margin:0 auto;
+    height:80vh;
+    width:50vw;
+}
+
+Footer{
+    display:flex;
+    width:100vw;
+    height:10vh;
+    justify-content: space-between;
+    font-size:small;
+    color:gray;
+}
+

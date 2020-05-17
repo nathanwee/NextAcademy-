@@ -1,0 +1,46 @@
+body {
+    margin :0 ;
+    
+}
+
+header{
+    background-color: orange;
+    width: 100vw;
+    height: 10vh;
+    position:sticky;
+}
+
+nav {
+    background-color:orange;
+    height:75vh;
+    width: 15vw;
+    position: absolute;
+    top : 12vh
+}
+
+
+article {
+    background-color:orange;
+    height:75vh;
+    width: 70vw;
+    position: absolute;
+    top : 12vh;
+    left :16vw;
+}
+
+ads {
+    background-color:orange;
+    height:75vh;
+    width: 13vw;
+    position: absolute;
+    top : 12vh;
+    right : 0vw;
+}
+
+footer{
+    background-color: orange;
+    width: 100vw;
+    height: 10vh;
+    position:absolute;
+    bottom :0;
+}
